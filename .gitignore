@@ -1,5 +1,4 @@
 # 构建产物
-dist/*.exe
 *.tmp
 target/
 node_modules/
