@@ -1,4 +1,5 @@
-# 构建产物
+# 构建产物（安装包走 Releases，不进仓库）
+dist/*.exe
 *.tmp
 target/
 node_modules/
